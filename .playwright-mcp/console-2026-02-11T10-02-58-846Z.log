@@ -1,0 +1,5 @@
+[   12849ms] [ERROR] Failed to load resource: the server responded with a status of 422 (Unprocessable Entity) @ http://localhost:3000/api/auth/register:0
+[   18918ms] [ERROR] Failed to load resource: the server responded with a status of 422 (Unprocessable Entity) @ http://localhost:3000/api/auth/register:0
+[   22992ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ http://localhost:3000/api/auth/login:0
+[  181098ms] [WARNING] Speech recognition error: no-speech @ http://localhost:3000/src/hooks/useVoice.ts?t=1770803231811:26
+[ 1942201ms] [ERROR] Failed to load resource: the server responded with a status of 401 (Unauthorized) @ http://localhost:3000/api/documents/list:0

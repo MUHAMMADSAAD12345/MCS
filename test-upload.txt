@@ -1,0 +1,10 @@
+This is a test document for uploading to the knowledge base.
+
+It contains some sample text that will be ingested into the RAG pipeline.
+
+Key points:
+- Feature 1: Document upload
+- Feature 2: Text processing
+- Feature 3: Vector embeddings
+
+End of test document.

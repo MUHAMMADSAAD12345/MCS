@@ -1,0 +1,36 @@
+# Core
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-multipart==0.0.20
+
+# Async
+httpx==0.28.1
+aiosqlite==0.20.0
+
+# LLM
+mistralai==1.5.0
+
+# Vector Store
+qdrant-client==1.13.3
+
+# Document Parsing
+PyMuPDF==1.25.3
+python-docx==1.1.2
+
+# Document Generation
+fpdf2==2.8.2
+openpyxl==3.1.5
+
+# Auth
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Web Search
+duckduckgo-search==7.3.2
+
+# Utilities
+tiktoken==0.8.0
+python-dotenv==1.0.1
+websockets==14.2

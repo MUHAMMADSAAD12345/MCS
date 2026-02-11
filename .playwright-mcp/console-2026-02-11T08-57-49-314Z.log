@@ -1,0 +1,10 @@
+[  242091ms] [ERROR] Warning: Each child in a list should have a unique "key" prop.%s%s See https://reactjs.org/link/warning-keys for more information.%s 
+
+Check the render method of `DocumentSidebar`.  
+    at div
+    at DocumentSidebar (http://localhost:3000/src/components/DocumentSidebar.tsx:23:74)
+    at div
+    at header
+    at div
+    at ChatWindow (http://localhost:3000/src/components/ChatWindow.tsx?t=1770800251835:30:81)
+    at App (http://localhost:3000/src/App.tsx?t=1770800251835:23:20) @ http://localhost:3000/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=d1e26de6:61
