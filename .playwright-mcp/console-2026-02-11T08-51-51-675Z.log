@@ -1,4 +1,0 @@
-[  126028ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/api/network:0
-[  126032ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/api/network:0
-[  141043ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/api/network:0
-[  173342ms] [ERROR] WebSocket connection to 'ws://localhost:3000/api/ws?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4NTdiOGM5Ni0zNzM2LTRjYzUtYjNkOC00ZDNjNTMxNTgyZjYiLCJ1c2VybmFtZSI6ImRlbW91c2VyIiwiZXhwIjoxNzcwODAxODM3LCJ0eXBlIjoiYWNjZXNzIn0.w6pDAcTX6F5k1buoBHgVu6R_1dAsEUyhGUQvqnzgaDc' failed: Error during WebSocket handshake: Unexpected response code: 403 @ http://localhost:3000/src/hooks/useWebSocket.ts?t=1770800065812:54
